@@ -4,4 +4,4 @@ This is a app inspired in Spotify layout to practice my skills with Tailwind �
 
 ## 💻 Technologies
 
-Next · Tailwind
+Typescript · Next · Tailwind
